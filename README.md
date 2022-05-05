@@ -7,4 +7,6 @@ plan for a vacation:
 
 plan for a day
 
-- write down all preliminary parts: analogs review , etc
+- [x] write down all preliminary parts: analogs review , etc
+- [] fill information about analogs
+- [] start making preliminary calculations (orbit, masses evaluation)
